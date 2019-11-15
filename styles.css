@@ -1,0 +1,34 @@
+html,body,layout{
+    height:100%;
+    width:100%;
+}
+.panel{
+   background-color:lightgrey;
+    height:99.9%;
+    width:10%;
+    position:relative;
+    display:block;
+}
+#right-panel{
+    float:right;
+}
+
+#left-panel{
+    float:left;
+}
+.buttons{
+    top:50%;
+    position:absolute;
+    background-color:white;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+}
+#left-panel-button{
+    border-right: 100px solid green;
+}
+#right-panel-button{
+    border-left: 100px solid green;
+    margin-left:1100px;
+}
+
+
