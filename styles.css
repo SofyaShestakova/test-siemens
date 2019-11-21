@@ -7,7 +7,6 @@ html,body,layout{
     height:99.9%;
     width:10%;
     position:relative;
-    display:block;
 }
 #right-panel{
     float:right;
@@ -28,7 +27,7 @@ html,body,layout{
 }
 #right-panel-button{
     border-left: 100px solid green;
-    margin-left:1100px;
+    margin-left:72.4%;
 }
 
 
